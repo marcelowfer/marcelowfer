@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT.
 - 💞️ I’m looking to collaborate on REACT, VUE.JS, MOBILE, C#, PHP, dot.net
 - 📫 How to reach me:
+- Resume: https://marcelowfer.github.io/resume/
 - Linkedin: https://www.linkedin.com/in/marcelodp/
 - Whatsapp: https://api.whatsapp.com/send?phone=5547988603939 
 
