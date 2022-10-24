@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelowfer
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT.
-- 💞️ I’m looking to collaborate on REACT, VUE.JS, MOBILE, C#, PHP, dot.net
+- 💞️ I’m looking to collaborate on REACT, VUE.JS, MOBILE, PHP and anything that turns me into a Full Stack DEV.
 - 📫 How to reach me:
 - 📄 Resume: https://marcelowfer.github.io/resume/
 - 👨🏽‍💼 Linkedin: https://www.linkedin.com/in/marcelodp/
